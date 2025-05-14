@@ -1,0 +1,9 @@
+vanessa_pessoa@LAPTOP-82V8OOIJ:~/vingadores$ ll
+total 24
+drwxr-xr-x  3 vanessa_pessoa vanessa_pessoa 4096 Apr 28 16:50  ./
+drwxr----- 10 vanessa_pessoa vanessa_pessoa 4096 Apr 25 18:29  ../
+-rw-r--r--  1 vanessa_pessoa vanessa_pessoa 1263 Apr 26 14:20 'comandos ultilizados para a atividade.txt'
+drwxr--r--  2 vanessa_pessoa vanessa_pessoa 4096 Apr 28 16:43  jovens_vingadores/
+-rw-r--r--  1 vanessa_pessoa vanessa_pessoa   91 Apr 25 18:48 'os jvens vingadores '
+-rw-r--r--  1 vanessa_pessoa vanessa_pessoa    0 Apr 26 14:21 'os jvens vingadores .txt'
+-rwxr--r--  1 vanessa_pessoa vanessa_pessoa  175 Apr 26 13:54  os_jovens_vingadores.sh*
